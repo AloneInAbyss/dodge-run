@@ -1,5 +1,5 @@
 # DODGE RUN
-Dodge Run é um jogo desenvolvido para o microcontrolador **ATmega328p** (Arduino). Se baseia em um personagem em um display LCD que deve desviar de obstáculos que vêm em sua direção.
+Dodge Run é um jogo desenvolvido para o microcontrolador **ATmega328p** (Arduino). Se baseia em um personagem exibido em um display LCD que deve desviar de obstáculos que vêm em sua direção.
 
 ## Desenvolvimento
 O código do [Arduino](https://www.arduino.cc/) foi criado usando um IDE chamado [PlatformIO](https://platformio.org/) instalado em cima do editor de texto [Visual Studio Code](https://code.visualstudio.com/). O diagrama de ligações foi criado utilizando o software [Fritzing](https://fritzing.org/home/). Todos esses softwares são gratuitos e open-source.
